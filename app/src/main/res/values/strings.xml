@@ -2,5 +2,11 @@
     <string name="app_name">Walkup</string>
 
     <string name="submit_button">Submit</string>
-    <string name="fullpage_content">Walkup</string>
+    <string name="welcome_text">Walkup</string>
+    <string name="who_are_you_text">Who are you?</string>
+    <string name="why_text">Then we can put you to the Queue.</string>
+    <string name="enter_id_text">Enter Lan ID</string>
+    <string name="lan_id">LAN ID</string>
+    <string name="lan_id_hint">LAN ID ex: q9iw</string>
+    <string name="tap_screen_to_begin">Tap Screen to Begin</string>
 </resources>
